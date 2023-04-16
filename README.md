@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shravan and I'm too lazy to finish this.
+- 👋 Hi, I'm too lazy to finish this.
 
 
 <!---
