@@ -1,4 +1,5 @@
-- 👋 Hi, this is Shravan and I am here because I love computers and problem solving, programming seems to be a perfect blend of the two. I am still learning but soon I hope I would be able to contribute to open source ecosystem and give back what I owe to the amazing community around it. ❤️
+- 👋 Hi, this is Shravan and I am here because I love computers and problem solving, programming seems to be a perfect blend of the two.
+I am still learning but soon I hope I would be able to contribute to open source ecosystem and give back what I owe to the amazing community around it. ❤️
 
 
 <!---
